@@ -21,11 +21,11 @@ individual needs and available at any time.
 
 ![Alt text](Stepup.png)
 
-![Alt text](Agent Instruction.png)
+![Alt text](AgentInstruction.png)
 
-![Alt text](Common Instruction.png)
+![Alt text](CommonInstruction.png)
 
 ![Alt text](Deployed.png)
 
-![Alt text](API & URL.png)
+![Alt text](API&URLlink.png)
 
