@@ -13,24 +13,25 @@ individual needs and available at any time.
 
 # Technology Used 
 
-1. Watson runtime
+1. IBM Watson runtime
 2. IBM Watson Granite Model
 3. IBM Cloud lite services
+4. Natural Language Processing (NLP)
 
 # 🧾Screenshot
 
-## StepUp
+## StepUp..
 ![Alt text](Stepup.png)
 
-## Agent Instructions
+## Agent Instructions..
 ![Alt text](AgentInstruction.png)
 
-## Common Instrictions
+## Common Instrictions..
 ![Alt text](CommonInstruction.png)
 
-## Deployment
+## Deployment..
 ![Alt text](Deployed.png)
 
-## API And URL Links
+## API And URL Links..
 ![Alt text](API&URLlink.png)
 
